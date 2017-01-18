@@ -2,7 +2,7 @@ package hack41;
 
 import java.util.Scanner;
 
-public class AriasLoops {
+public class AriasLoops{
 	/*
 	
 	int loop(int n, int k)

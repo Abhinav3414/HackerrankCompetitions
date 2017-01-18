@@ -2,7 +2,7 @@ package hack41;
 
 import java.util.Scanner;
 
-public class LectureNotes {
+public class LectureNotes{
 
 	public static void main(String[] args) {
 		
