@@ -1,4 +1,4 @@
-package hack41;
+package WeekOfCode23;
 
 import java.util.Scanner;
 
